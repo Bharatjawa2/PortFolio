@@ -24,10 +24,10 @@ export const MENU_LINKS=[
 ]
 
 export const STATS=[
-    {id:"01" , count:"10" , label:"Years of \nExperience"},
+    {id:"01" , count:"Fresher" , label:""},
     {id:"02" , count:"12" , label:"Certifications \nEarned"},
-    {id:"03" , count:"43" , label:"Projects \nCompleted"},
-    {id:"04" , count:"37+" , label:"Happy \nClients"},
+    {id:"03" , count:"10-12" , label:"Projects \nCompleted"},
+    {id:"04" , count:"8.73" , label:"CGPA \n(2022-2026)"},
 ]
 
 export const SKILLS_TABS=[
