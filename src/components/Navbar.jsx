@@ -67,7 +67,7 @@ const Navbar = () => {
                         ))}
                     </ul>
                 )}  
-                <a href="https://your-resume-link.com" target="_blank" rel="noopener noreferrer" className="hidden md:flex items-center justify-center h-16 px-8 text-[16px] font-semibold text-white bg-[#d68a39] rounded-full transition-all duration-300 ease-in-out hover:bg-[#b6732e] hover:scale-105 shadow-lg">
+                <a href="https://drive.google.com/file/d/1hbdZWdXHBnNNtJqe7YmVVs9zcnalCgBV/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hidden md:flex items-center justify-center h-16 px-8 text-[16px] font-semibold text-white bg-[#d68a39] rounded-full transition-all duration-300 ease-in-out hover:bg-[#b6732e] hover:scale-105 shadow-lg">
                     Resume
                 </a>
             </div>
