@@ -250,7 +250,7 @@ export const ABOUT_ME = {
 
   email: "jawabharat05@gmail.com",
   phone: "(91+) 83960-10179",
-  website: "www.bharatJawa.com"
+  website: "port-folio-omega-three.vercel.app/"
 };
 
 
