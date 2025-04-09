@@ -4,7 +4,7 @@ import react from '../assets/images/physics.png';
 import js from '../assets/images/js.png';
 import java from '../assets/images/java.png';
 import html from '../assets/images/html-5.png';
-import profile2 from '../assets/images/profilepic.png';
+import profile2 from '../assets/images/Profilepic.png';
 import profile3 from '../assets/images/profile3.png';
 import { STATS } from '../utils/data';
 import StatInfoCard from '../components/statInfoCard';
