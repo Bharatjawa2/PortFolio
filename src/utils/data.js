@@ -21,6 +21,8 @@ import gemini from "../assets/images/Gemini.png";
 import sparkspectra from "../assets/images/sparkspectra.png"
 import qrivo from "../assets/images/Qrivo.png"
 import tic from "../assets/images/Tic.png"
+import handpose from "../assets/images/handpose.png";
+import trust from "../assets/images/trust.png"
 
 export const MENU_LINKS = [
   { id: "01", label: "Home", offset: -100, to: "hero" },
@@ -271,20 +273,34 @@ export const PROJECTS = [
   },
   {
     id: 3,
+    title: "Hand Pose Detection | ReactJs, TensorFlow, CanvasAPI",
+    image: handpose,
+    url:"https://hand-pose-detection-azno.vercel.app/",
+    tags: ['ReactJs', 'TensorFlow', 'CanvasAPI']
+  },
+  {
+    id: 4,
+    title: "Trust Shield | Laravel , SQL",
+    image: trust,
+    url:"https://github.com/Bharatjawa2/Trust_Shield",
+    tags: ['Laravel','SQL']
+  },
+  {
+    id: 5,
     title: "SparkSpectra - Event Management Webiste | HTML, CSS, JavaScript",
     image: sparkspectra,
     url:"https://github.com/Bharatjawa2/SparkSpectra",
     tags: ['HTML','CSS','JavaScript']
   },
   {
-    id: 4,
+    id: 6,
     title: "Gemini AI CLone | ReactJs",
     image: gemini,
     url:"https://vocal-marshmallow-1057e4.netlify.app/",
     tags: ['ReactJs','Gemini AI API Key']
   },
   {
-    id: 5,
+    id: 7,
     title: "JawaShop Frontend using ReactJs",
     image: JawaShop,
     url:"https://jawa-shop-frontend.vercel.app/",
@@ -292,14 +308,14 @@ export const PROJECTS = [
   },
   
   {
-    id: 6,
+    id: 8,
     title: "Qrivo - URL to QR Generator",
     image: qrivo,
     url:"https://capable-sherbet-54c6bf.netlify.app/",
     tags: ['HTML','CSS','JavaScript','API Key']
   },
   {
-    id: 7,
+    id: 9,
     title: "Tic-Tak-Toe",
     image: tic,
     url:"https://coruscating-sawine-ded9d2.netlify.app/",
